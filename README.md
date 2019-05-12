@@ -5,3 +5,4 @@ Data source is [FAA Releasable Aircraft Data](https://www.faa.gov/licenses_certi
 Unzipped and posted here for easy consumption.
 
 Used [Git Large File Storage (LFS)](https://git-lfs.github.com/).
+[Tutorial](https://github.com/git-lfs/git-lfs/wiki/Tutorial).
