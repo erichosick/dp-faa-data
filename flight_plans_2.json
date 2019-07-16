@@ -1,0 +1,139 @@
+{
+  "source_message": {
+
+  },
+  "messageType": "FPL",
+  "route": "NIITE3 SYRAH Q130 HASSL DCT KD45Q DCT KD42S DCT  KA39U DCT MIRME Q130 PNH DCT MDANO VKTRY2",
+  "departure": "KSEA",
+  "arrival": "KCLT",
+  "start": "2019-04-09 13:01:00Z",
+  "end": "2019-04-09 15:48:00Z",
+  "tailNumber": "0E640B",
+  "flightId": "8C47211",
+  "timestamp": "2019-04-09 11:46:26.733927Z",
+  "airline": "884",
+  "operator": "884",
+  "airline_name": "3B9655BF06BD9D7CB",
+  "operator_name": "3B9655BF06BD9D7CB",
+  "departure_iata": "SEA",
+  "departure_name": "Seattle Tacoma International",
+  "arrival_iata": "CLT",
+  "arrival_name": "Charlotte Douglas International",
+  "hexCode": null,
+  "atcCallsign": null,
+  "coords": [
+    [
+      37.845242,
+      -122.386869
+    ],
+    [
+      37.940683,
+      -122.383667
+    ],
+    [
+      37.988175,
+      -122.147911
+    ],
+    [
+      37.99105,
+      -121.103089
+    ],
+    [
+      37.99105,
+      -121.103089
+    ],
+    [
+      38.520517,
+      -117.286817
+    ],
+    [
+      38.4,
+      -114.333333
+    ],
+    [
+      37.828231,
+      -111.999956
+    ],
+    [
+      37.570022,
+      -110.883508
+    ],
+    [
+      37.570022,
+      -110.883508
+    ],
+    [
+      37.5,
+      -110
+    ],
+    [
+      37,
+      -108
+    ],
+    [
+      36.5,
+      -106
+    ],
+    [
+      35.783533,
+      -103.842189
+    ],
+    [
+      35.235061,
+      -101.699031
+    ],
+    [
+      35.235061,
+      -101.699031
+    ],
+    [
+      34.327756,
+      -99.576897
+    ],
+    [
+      33.894264,
+      -98.673906
+    ],
+    [
+      33.825519,
+      -98.534347
+    ],
+    [
+      33.639,
+      -98.153414
+    ],
+    [
+      33.513531,
+      -97.901356
+    ],
+    [
+      33.3839,
+      -97.641711
+    ]
+  ],
+  "points": [
+    "NIITE",
+    "REBAS",
+    "TAMMM",
+    "SYRAH",
+    "SYRAH",
+    "JSICA",
+    "REANA",
+    "ROCCY",
+    "HASSL",
+    "HASSL",
+    "KD45Q",
+    "KD42S",
+    "KA39U",
+    "MIRME",
+    "PNH",
+    "PNH",
+    "MDANO",
+    "BELFR",
+    "HHULL",
+    "LETNN",
+    "ZUBOV",
+    "VKTRY"
+  ],
+  "expiryTime": 1554918480
+}
